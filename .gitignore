@@ -3,6 +3,5 @@ tmp
 _site
 .DS_Store
 .idea
-Gemfile.lock
 .rvmrc
-Gemfile
+_jekyll_s3.yml
